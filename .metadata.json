@@ -1,0 +1,10 @@
+[
+  {
+    "package": "file2meco",
+    "oncran": true
+  },
+  {
+    "package": "microeco",
+    "oncran": true
+  }
+]

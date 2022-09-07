@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "meconetcomp",
+    "oncran": true
+  },
+  {
     "package": "microeco",
     "oncran": true
   }

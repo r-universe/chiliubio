@@ -8,6 +8,11 @@
 	url = https://github.com/chiliubio/file2meco
 	shallow = true
 	registered = true
+[submodule "meconetcomp"]
+	path = meconetcomp
+	url = https://github.com/chiliubio/meconetcomp
+	shallow = true
+	registered = true
 [submodule "microeco"]
 	path = microeco
 	url = https://github.com/chiliubio/microeco

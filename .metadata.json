@@ -1,9 +1,5 @@
 [
   {
-    "package": "file2meco",
-    "oncran": true
-  },
-  {
     "package": "meconetcomp",
     "oncran": true
   },

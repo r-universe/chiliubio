@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "mecoturn",
+    "oncran": true
+  },
+  {
     "package": "microeco",
     "oncran": true
   }

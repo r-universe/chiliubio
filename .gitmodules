@@ -13,6 +13,11 @@
 	url = https://github.com/chiliubio/meconetcomp
 	shallow = true
 	registered = true
+[submodule "mecoturn"]
+	path = mecoturn
+	url = https://github.com/chiliubio/mecoturn
+	shallow = true
+	registered = true
 [submodule "microeco"]
 	path = microeco
 	url = https://github.com/chiliubio/microeco

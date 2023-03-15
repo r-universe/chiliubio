@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "file2meco"]
-	path = file2meco
-	url = https://github.com/chiliubio/file2meco
-	shallow = true
-	registered = true
 [submodule "meconetcomp"]
 	path = meconetcomp
 	url = https://github.com/chiliubio/meconetcomp
@@ -21,5 +16,10 @@
 [submodule "microeco"]
 	path = microeco
 	url = https://github.com/chiliubio/microeco
+	shallow = true
+	registered = true
+[submodule "file2meco"]
+	path = file2meco
+	url = https://github.com/chiliubio/file2meco
 	shallow = true
 	registered = true
